@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 250 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-30.309752,7.94975)">
-        <text x="30.858px" y="25.413px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:37.083px;fill:url(#_Linear1);">AL</text>
-        <g transform="matrix(37.083333,0,0,37.083333,280.466002,25.412541)">
+    <g transform="matrix(1,0,0,1,-29.309752,10.94975)">
+        <text x="30.858px" y="25.413px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:35.417px;fill:url(#_Linear1);">AL</text>
+        <g transform="matrix(35.416667,0,0,35.416667,269.247669,25.412541)">
         </g>
-        <text x="77.027px" y="25.413px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:37.083px;fill:rgb(0,0,145);">FRANÇAISE</text>
+        <text x="74.952px" y="25.413px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:35.417px;fill:rgb(0,0,145);">FRANÇAISE</text>
     </g>
     <defs>
         <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,1,155.309752,17.05025)"><stop offset="0" style="stop-color:rgb(225,0,15);stop-opacity:1"/><stop offset="1" style="stop-color:black;stop-opacity:1"/></linearGradient>
